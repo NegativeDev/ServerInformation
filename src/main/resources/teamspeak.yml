@@ -1,0 +1,16 @@
+# If false, this command will not be enabled.
+enabled: true
+
+# Command name
+command: "teamspeak"
+
+settings:
+  player-only: true # If this is true, only players will be able to use this command
+  console-only: false # If this is true, only console will
+  permission: "none"
+
+# The following message will be sent to you after executing the command
+message:
+  - '&8&m----------------------------------------------------'
+  - '&7Join our Teamspeak! &e&nhttps://www.ts.yourserver.com'
+  - '&8&m----------------------------------------------------'

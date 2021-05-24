@@ -1,0 +1,5 @@
+name: ServerInformation
+version: ${project.version}
+main: dev.negativekb.serverinformation.ServerInformation
+authors: [ Negative ]
+description: A basic information plugin

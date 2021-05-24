@@ -1,0 +1,21 @@
+# If false, this command will not be enabled.
+enabled: true
+
+# Command name
+command: "store"
+
+# Aliases for the command
+aliases:
+  - "buy"
+  - "donate"
+
+settings:
+  player-only: true # If this is true, only players will be able to use this command
+  console-only: false # If this is true, only console will
+  permission: "none"
+
+# The following message will be sent to you after executing the command
+message:
+  - '&8&m----------------------------------------------------'
+  - '&7Purchase in-game ranks, permissions, cosmetics and more: &e&nhttps://www.store.yourserver.com'
+  - "&8&m----------------------------------------------------"
